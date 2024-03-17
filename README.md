@@ -12,20 +12,20 @@ There may be some icons missing if that is the case let me know and I will updat
 panekj for making the material icons theme, a lot of this theme is based on that as well as the layout for the repo
 https://github.com/panekj/lapce-material-icon-theme.git
 
-Material Icons
-VSCode Icons
-Elusive Icons
-Gitlabs SVG
-Feather Icons
-Bootstrap Icons
-Material Design Icons
-Devicon Plain
-Akar Icons
-IcoMoon Free
-Font Awsome 4
-Fontisto
-Remix Icon
-CoreUI Brands
-Simple Icons
-Octicons
-MingCute Icons
+- Material Icons
+- VSCode Icons
+- Elusive Icons
+- Gitlabs SVG
+- Feather Icons
+- Bootstrap Icons
+- Material Design Icons
+- Devicon Plain
+- Akar Icons
+- IcoMoon Free
+- Font Awsome 4
+- Fontisto
+- Remix Icon
+- CoreUI Brands
+- Simple Icons
+- Octicons
+- MingCute Icons
