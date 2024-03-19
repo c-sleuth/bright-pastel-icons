@@ -3,5 +3,6 @@ display-name = "Bright Pastel Icon Theme"
 description = "Bright Pastel icon theme for Lapce"
 version = "0.0.0"
 author = "c-sleuth"
+repository = "https://github.com/c-sleuth/bright-pastel-icons"
 icon = "logo.png"
 icon-themes = ["bright-pastel-icons.toml"]
